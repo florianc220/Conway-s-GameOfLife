@@ -1,4 +1,4 @@
-Download the project and laucnh main.py or test.py.
+Download the project and launch main.py or test.py.
 
 main.py is the latest stable version and test.py is the one where i test new features
 
