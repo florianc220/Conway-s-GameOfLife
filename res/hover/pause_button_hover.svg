@@ -1,0 +1,5 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pause icon avec coins arrondis et dimensions ajustées -->
+  <rect x="28" y="30" width="20" height="60" rx="5" fill="#ecf0f1" />
+  <rect x="58" y="30" width="20" height="60" rx="5" fill="#ecf0f1" />
+</svg>
