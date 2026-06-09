@@ -1,7 +1,5 @@
-Download the project and launch main.py or test.py.
-
-main.py is the latest stable version and test.py is the one where i test new features
-
+Download the project and launch main.py
+Developped on python 3.12
 Controls : 
   - Pause/resume -> spacebar
   - Left clic -> toggle a cell Alive or Dead
